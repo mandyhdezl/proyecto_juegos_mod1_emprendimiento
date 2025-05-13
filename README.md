@@ -2,7 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-En%20desarrollo-yellow.svg)]()
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
+
 
 ---
 
